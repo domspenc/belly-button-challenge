@@ -24,7 +24,6 @@ The dataset reveals that a small handful of microbial species (also called opera
 <img
         src="images/bar_chart.jpg"
         alt="Top 10 OTUs Bar Chart"
-        width="650"
       />
 </br>
 <p>🦠 Create a bubble chart that displays each sample.</p>
@@ -37,14 +36,13 @@ The dataset reveals that a small handful of microbial species (also called opera
 <img
         src="images/bubble_chart.jpg"
         alt="OTU ID Bubble Chart"
-        width="650"
+        width="750"
       /> 
 </br>
 <p>🦠 Display the sample metadata, i.e., an individual's demographic information.</p> 
 <img
         src="images/panel.jpg"
         alt="Panel of study participant's demographics"
-        width="650"
       /> 
 </br>
 <p>🦠 Display each key-value pair from the metadata JSON object somewhere on the page.</p> 
