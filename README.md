@@ -1,6 +1,6 @@
 <h1>Belly Button Challenge</h1>
 <img
-        src="/img.png"
+        src="../img.png"
         alt="Food Magazine rendering"
         width="650"
       />
@@ -40,5 +40,5 @@ The dataset reveals that a small handful of microbial species (also called opera
 </br>
 <h3>🔬🔬🔬</h3>
 </br>
-<p><a>Dataset and image sourced from http://robdunnlab.com/projects/belly-button-biodiversity/</a></p>
+<p>Dataset and image sourced from http://robdunnlab.com/projects/belly-button-biodiversity/</p>
 </br>
