@@ -53,5 +53,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 </br>
 <h3>🔬🔬🔬</h3>
 </br>
+<p>This was the most challenging assignment to date for me; I was very reliant on the bootcamp tutors and ChatGPT to help me build the framework, and unpack each step along the way./</p>
+</br>
 <p>Dataset and image sourced from http://robdunnlab.com/projects/belly-button-biodiversity/</p>
 </br>
