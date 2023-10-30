@@ -1,6 +1,6 @@
 <h1>Belly Button Challenge</h1>
 <img
-        src="image.jpg"
+        src="images/bbsamples.jpg"
         alt="Images of belly button swab samples"
         width="650"
       />
@@ -20,7 +20,12 @@ The dataset reveals that a small handful of microbial species (also called opera
 <ol><li>Use sample_values as the values for the bar chart.</li>
 <li>Use otu_ids as the labels for the bar chart.</li>
 <li>Use otu_labels as the hovertext for the chart.</li>
-</ol> 
+</ol>
+<img
+        src="images/bar_chart.jpg"
+        alt="Top 10 OTUs Bar Chart"
+        width="650"
+      />
 </br>
 <p>🦠 Create a bubble chart that displays each sample.</p>
 <ol><li>Use otu_ids for the x values.</li>
@@ -28,9 +33,19 @@ The dataset reveals that a small handful of microbial species (also called opera
 <li>Use sample_values for the marker size.</li>
 <li>Use otu_ids for the marker colors.</li>
 <li>Use otu_labels for the text values.</li>
-</ol>  
+</ol>
+<img
+        src="images/bubble_chart.jpg"
+        alt="OTU ID Bubble Chart"
+        width="650"
+      /> 
 </br>
 <p>🦠 Display the sample metadata, i.e., an individual's demographic information.</p> 
+<img
+        src="images/panel.jpg"
+        alt="Panel of study participant's demographics"
+        width="650"
+      /> 
 </br>
 <p>🦠 Display each key-value pair from the metadata JSON object somewhere on the page.</p> 
 </br>
