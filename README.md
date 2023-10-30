@@ -1,6 +1,6 @@
 <h1>Belly Button Challenge</h1>
 <img
-        src="img.png"
+        src="image.jpg"
         alt="Images of belly button swab samples"
         width="650"
       />
